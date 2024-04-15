@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		003800C42BCD071E00203FE5 /* Pals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003800C32BCD071E00203FE5 /* Pals.swift */; };
 		0087FAED2BCB2BDE002488D5 /* Pick_a_PalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0087FAEC2BCB2BDE002488D5 /* Pick_a_PalApp.swift */; };
 		0087FAEF2BCB2BDE002488D5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0087FAEE2BCB2BDE002488D5 /* ContentView.swift */; };
 		0087FAF12BCB2BDF002488D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0087FAF02BCB2BDF002488D5 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		003800C32BCD071E00203FE5 /* Pals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pals.swift; sourceTree = "<group>"; };
 		0087FAE92BCB2BDE002488D5 /* Pick-a-Pal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pick-a-Pal.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0087FAEC2BCB2BDE002488D5 /* Pick_a_PalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pick_a_PalApp.swift; sourceTree = "<group>"; };
 		0087FAEE2BCB2BDE002488D5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				0087FAEC2BCB2BDE002488D5 /* Pick_a_PalApp.swift */,
 				0087FAEE2BCB2BDE002488D5 /* ContentView.swift */,
+				003800C32BCD071E00203FE5 /* Pals.swift */,
 				0087FAF02BCB2BDF002488D5 /* Assets.xcassets */,
 				0087FAF22BCB2BDF002488D5 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				0087FAEF2BCB2BDE002488D5 /* ContentView.swift in Sources */,
 				0087FAED2BCB2BDE002488D5 /* Pick_a_PalApp.swift in Sources */,
+				003800C42BCD071E00203FE5 /* Pals.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
